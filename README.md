@@ -7,9 +7,9 @@ Project Name
 URL:
 
 Team Members:
-Emir Yılmaz		23797519968
-Kemalcan Güner	34466079706
-Yunus Emre Günen	45292691536
+- Emir Yılmaz		23797519968
+- Kemalcan Güner	34466079706
+- Yunus Emre Günen	45292691536
 
 Supervisor: 
 Gökçe Nur Yılmaz
