@@ -1,7 +1,4 @@
-## Project Proposal
-
-### Project Name
-voiceolation
+## voiceolation
 
 ### Team Members
 - Emir Yılmaz 
