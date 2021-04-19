@@ -9,8 +9,8 @@
 Gökçe Nur Yılmaz 
 
 ### Jury Members
-Aslı Gençtav
-Venera Adanova
+- Aslı Gençtav
+- Venera Adanova
 
 ### Description
 
