@@ -12,7 +12,8 @@ voiceolation
 Gökçe Nur Yılmaz 
 
 ### Jury Members
-coming soon
+Aslı Gençtav
+Venera Adanova
 
 ### Description
 
