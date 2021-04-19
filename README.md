@@ -19,6 +19,6 @@ Although the equivalent softwares exists, most of them lack isolating vocals per
 
 ### CMPE 491 Reports
 
-[Project Proposal](reports/Project Proposal.pdf)
-[Project Specifications Report](reports/Project Specifications Report.pdf)
-[Analysis Report](reports/Analysis Report.pdf)
+* [Project Proposal](reports/Project Proposal.pdf)
+* [Project Specifications Report](reports/Project Specifications Report.pdf)
+* [Analysis Report](reports/Analysis Report.pdf)
