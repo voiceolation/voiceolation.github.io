@@ -23,4 +23,5 @@ Although the equivalent softwares exists, most of them lack isolating vocals per
 * [Project Specifications Report](reports/Project Specifications Report.pdf)
 * [Analysis Report](reports/Analysis Report.pdf)
 * [High-Level Design Report](reports/High-Level Design Report.pdf)
+* [Low Level Design Report](reports/Low Level Design Report.pdf)
 
