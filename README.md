@@ -25,4 +25,4 @@ Although the equivalent softwares exists, most of them lack isolating vocals per
 * [High-Level Design Report](reports/High-Level Design Report.pdf)
 * [Low Level Design Report](reports/Low Level Design Report.pdf)
 * [Test Plan Report](reports/Test Plan Report.pdf)
-
+* [Final Report](reports/Final Report.pdf)
