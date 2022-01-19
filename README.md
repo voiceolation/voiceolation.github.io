@@ -1,7 +1,7 @@
+
 ### Description
 
-Most people can produce music professionally or amateurishly at their homes, thanks to getting easier to use DAWs (Digital Audio Workstation) such as Ableton, FL Studio; their plugins, tutorials increased, diversified and DAWs became widespread. They - whether professional or not - require clean vocals to use in their music projects. Some tracks’ vocal channels are unobtainable because of issues with record labels like copyright, lost files etc. or simply the song is being too old for having stems for vocals. In this project, our goal is to extract the vocals from all kinds of music tracks.
-Although the equivalent softwares exists, most of them lack isolating vocals perfectly or they are focused only on acoustic human voices despite modern music includes vocaloids, stereo vocal channels, reverbs, or panned vocals. We intend to reach harder aspects of the isolation, like isolating vocals from the stereo mix. 
+Voiceolation is a music source separator that extracts vocals from songs. Voiceolation is not only used for remixing or editing but also used for music information retrieval (MIR) in order to define and brand music genres. The music information retrieval  has become a more important part for some well known companies like Spotify, Facebook, and Deezer. They already have some projects on music separation techniques to expand MIR views for example, genre classification, identify vocals and language, etc.  
 
 ### Team Members
 - Emir Yılmaz 
