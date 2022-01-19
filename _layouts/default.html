@@ -16,7 +16,9 @@
   <body>
     <div class="wrapper">
       <header>
-        <img src="logo.jpg" width="50" height="50"> <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
+        <div>
+          <img src="logo.jpg" width="65" height="65"> <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
+        </div>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
         <ul>
           {% if site.show_downloads %}
