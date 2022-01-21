@@ -19,10 +19,14 @@ Gökçe Nur Yılmaz
 ### Download Demo
 
 You can isolate vocals and obtain as a .wav file if you have python.
-To extract vocals from any song: download voiceolation and install libraries on the requirements.txt.
-Download .zip file and enjoy!
+To extract vocals from any song: download _voiceolation_ and install libraries on the requirements.txt.
 
-'''py voiceolation.py <path-to-soundfile>'''
+1. Download and extract the .zip file
+2. Install libraries from the requirements.txt
+3. Run the below command giving a path of the sound file
+```
+py voiceolation.py <path-to-soundfile>
+```
 
 If you wanna more accurate result, change SR on the config.py because we are using downsampling.
 
