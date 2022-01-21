@@ -1,7 +1,7 @@
 
 ### Description
 
-Voiceolation is a music source separator that extracts vocals from songs. Voiceolation is not only used for remixing or editing but also used for music information retrieval (MIR) in order to define and brand music genres. The music information retrieval  has become a more important part for some well known companies like Spotify, Facebook, and Deezer. They already have some projects on music separation techniques to expand MIR views for example, genre classification, identify vocals and language, etc.  
+Voiceolation is a music source separator that extracts vocals from songs. 
 
 ### Team Members
 - Emir Yılmaz 
@@ -16,9 +16,18 @@ Gökçe Nur Yılmaz
 - Aslı Gençtav
 - Venera Adanova
 
-### Demo
+### Download Demo
 
-[Google Colab](https://colab.research.google.com/drive/1Lx3Vqc369Tb_ejrtS3zfIo1auE0MBkYC#scrollTo=roz45AAyUJDV)
+You can isolate vocals and obtain as a .wav file if you have python.
+To extract vocals from any song: download voiceolation and install libraries on the requirements.txt.
+Download .zip file and enjoy!
+
+'''py voiceolation.py <path-to-soundfile>'''
+
+If you wanna more accurate result, change SR on the config.py because we are using downsampling.
+
+P.S: This a student project, may not be satisfied but it doesn't hurt to give a chance and try :)
+[Download Link](https://github.com/voiceolation/voiceolation/releases/download/v0.1.0-alpha/voiceolation.zip)
 
 ### CMPE 491 - 492 Reports
 
