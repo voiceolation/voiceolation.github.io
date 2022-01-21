@@ -1,5 +1,5 @@
 
-### Description
+### Voiceolation
 
 Voiceolation is a music source separator that extracts vocals from songs. 
 
