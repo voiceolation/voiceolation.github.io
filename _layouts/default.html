@@ -27,7 +27,90 @@
 
       <section>
         <p style="float: right;"><img src="logo.jpg" height="100px" width="100px"></p>
-        {{ content }}
+		<h1> Voiceolation</h1>
+		<p>Voiceolation is a music source separator that extracts vocals from songs.</p>
+		<h1>Team Members</h1>
+		<ul>
+			<li>Emir Yılmaz</li>
+			<li>Kemalcan Güner</li>
+			<li>Yunus Emre Günen</li>
+			<li>Ahmad Amireh</li>
+		</ul>	
+		<h1>Supervisor</h1>
+		<p>Gökçe Nur Yılmaz <a href="https://scholar.google.com/citations?user=Zugq6_sAAAAJ" target="_blank">[Scholar Link]</a></p>
+		<h1>Jury Members</h1>
+		<ul>
+			<li>Aslı Gençtav</li>
+			<li>Venera Adanova</li>
+		</ul>
+
+		<h1>Download / Demo</h1>
+		<p> You can isolate vocals and obtain as a .wav file if you have python. To extract vocals from any song: download <i>voiceolation</i> and install libraries on the requirements.txt.<br>
+		<ol>
+			<li>Download and extract the .zip file</li>
+			<li>Install libraries from the requirements.txt</li>
+			<li>Run the below command giving a path of the sound file</li>
+				<dd><code>py voiceolation.py path-to-soundfile</code></dd>
+		</ol>
+		<br>
+		If you want more accurate result, change SR on the config.py because we are using downsampling.
+		<br>
+		P.S: This a student project, may not be satisfied but it doesn't hurt to give a chance and try :) 
+		<a href="https://github.com/voiceolation/voiceolation/releases/download/v0.1.0-alpha/voiceolation.zip" target="_blank">[Download Link]</a>
+		</p>
+		<h2>Demo</h2>
+		<h3>Dataset Samples</h3>
+		<table>
+			<tr>
+				<th>Original Input Sample</th>
+				<th>Downsampled Input</th>
+				<th>Output Audio File</th>
+			</tr>
+			<tr>
+				<td><audio controls><source src="samples/musdb18/sample1/orj.wav" type=""></audio></td>
+				<td><audio controls><source src="samples/musdb18/sample1/in.wav" type=""></audio></td>
+				<td><audio controls><source src="samples/musdb18/sample1/out.wav" type=""></audio></td>
+			</tr>
+		</table>
+		<table>
+			<tr>
+				<th>Input Audio File</th>
+				<th>Output Audio File</th>
+			</tr>
+			<tr>
+				<td><audio controls><source src="samples/musdb18/sample2/in.wav" type=""></audio></td>
+				<td><audio controls><source src="samples/musdb18/sample2/out.wav" type=""></audio></td>
+			</tr>
+		</table>
+		<h3>Real-Life Samples</h3>
+		<table>
+			<tr>
+				<th>Input Audio File</th>
+				<th>Output Audio File</th>
+			</tr>
+			<tr>
+				<td><audio controls><source src="samples/real/sample1/in.wav" type=""></audio></td>
+				<td><audio controls><source src="samples/real/sample1/out.wav" type=""></audio></td>
+			</tr>
+			<tr>
+				<td><audio controls><source src="samples/real/sample2/in.wav" type=""></audio></td>
+				<td><audio controls><source src="samples/real/sample2/out.wav" type=""></audio></td>
+			</tr>
+			<tr>
+				<td><audio controls><source src="samples/real/sample3/in.wav" type=""></audio></td>
+				<td><audio controls><source src="samples/real/sample3/out.wav" type=""></audio></td>
+			</tr>
+		</table>
+		<h1>TEDU CMPE 491 and CMPE 492 Reports</h1>
+		<ul>
+			<li><a href="reports/Project Proposal.pdf" target="_blank">[Project Proposal]</li>
+			<li><a href="reports/Project Specifications Report.pdf" target="_blank">[Project Specifications Report]</li>
+			<li><a href="reports/Analysis Report.pdf" target="_blank">[Analysis Report]</li>
+			<li><a href="reports/High-Level Design Report.pdf" target="_blank">[High-Level Design Report]</li>
+			<li><a href="reports/Low Level Design Report.pdf" target="_blank">[Low Level Design Report]</li>
+			<li><a href="reports/Test Plan Report.pdf" target="_blank">[Test Plan Report]</li>
+			<li><a href="reports/Final Report.pdf/" target="_blank">[Final Report]</li>
+		</ul>
       </section>
 
       <footer>
