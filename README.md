@@ -38,7 +38,7 @@ P.S: This a student project, may not be satisfied but it doesn't hurt to give a 
 ### Dataset Samples
   * original audio file
 
-https://user-images.githubusercontent.com/26442979/151437532-4ad6071a-43db-43cc-966c-039b7f697d3d.mov
+[original](https://user-images.githubusercontent.com/26442979/151437532-4ad6071a-43db-43cc-966c-039b7f697d3d.mov)
 
   * downsampled input audio
 
